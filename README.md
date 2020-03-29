@@ -1,0 +1,2 @@
+# pentiumcoin
+pentiumcoin
